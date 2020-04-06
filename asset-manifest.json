@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/economic-trading-map/static/css/main.b0e9b302.chunk.css",
-    "main.js": "/economic-trading-map/static/js/main.0078de63.chunk.js",
-    "main.js.map": "/economic-trading-map/static/js/main.0078de63.chunk.js.map",
-    "runtime-main.js": "/economic-trading-map/static/js/runtime-main.25d6c69c.js",
-    "runtime-main.js.map": "/economic-trading-map/static/js/runtime-main.25d6c69c.js.map",
-    "static/css/2.4a5af106.chunk.css": "/economic-trading-map/static/css/2.4a5af106.chunk.css",
-    "static/js/2.91f375d1.chunk.js": "/economic-trading-map/static/js/2.91f375d1.chunk.js",
-    "static/js/2.91f375d1.chunk.js.map": "/economic-trading-map/static/js/2.91f375d1.chunk.js.map",
-    "index.html": "/economic-trading-map/index.html",
-    "precache-manifest.d4666adb7f947f86dc593076024f61a6.js": "/economic-trading-map/precache-manifest.d4666adb7f947f86dc593076024f61a6.js",
-    "service-worker.js": "/economic-trading-map/service-worker.js",
-    "static/css/2.4a5af106.chunk.css.map": "/economic-trading-map/static/css/2.4a5af106.chunk.css.map",
-    "static/css/main.b0e9b302.chunk.css.map": "/economic-trading-map/static/css/main.b0e9b302.chunk.css.map",
-    "static/media/Back.svg": "/economic-trading-map/static/media/Back.d97f64bd.svg",
-    "static/media/ZoomToExtentControl.scss": "/economic-trading-map/static/media/earth.11f512ee.svg",
-    "static/media/pikobytes-logo-white.png": "/economic-trading-map/static/media/pikobytes-logo-white.ffde0018.png",
-    "static/media/index.css": "/economic-trading-map/static/media/roboto-latin-900italic.bc833e72.woff"
+    "main.css": "/trading-map/static/css/main.fedf642a.chunk.css",
+    "main.js": "/trading-map/static/js/main.f9970a6f.chunk.js",
+    "main.js.map": "/trading-map/static/js/main.f9970a6f.chunk.js.map",
+    "runtime-main.js": "/trading-map/static/js/runtime-main.c21c50e6.js",
+    "runtime-main.js.map": "/trading-map/static/js/runtime-main.c21c50e6.js.map",
+    "static/css/2.ece6fd1a.chunk.css": "/trading-map/static/css/2.ece6fd1a.chunk.css",
+    "static/js/2.807dfae4.chunk.js": "/trading-map/static/js/2.807dfae4.chunk.js",
+    "static/js/2.807dfae4.chunk.js.map": "/trading-map/static/js/2.807dfae4.chunk.js.map",
+    "index.html": "/trading-map/index.html",
+    "precache-manifest.accd85a79105c594b36c315535da8045.js": "/trading-map/precache-manifest.accd85a79105c594b36c315535da8045.js",
+    "service-worker.js": "/trading-map/service-worker.js",
+    "static/css/2.ece6fd1a.chunk.css.map": "/trading-map/static/css/2.ece6fd1a.chunk.css.map",
+    "static/css/main.fedf642a.chunk.css.map": "/trading-map/static/css/main.fedf642a.chunk.css.map",
+    "static/media/Back.svg": "/trading-map/static/media/Back.d97f64bd.svg",
+    "static/media/ZoomToExtentControl.scss": "/trading-map/static/media/earth.11f512ee.svg",
+    "static/media/pikobytes-logo-white.png": "/trading-map/static/media/pikobytes-logo-white.ffde0018.png",
+    "static/media/index.css": "/trading-map/static/media/roboto-latin-900italic.bc833e72.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.25d6c69c.js",
-    "static/css/2.4a5af106.chunk.css",
-    "static/js/2.91f375d1.chunk.js",
-    "static/css/main.b0e9b302.chunk.css",
-    "static/js/main.0078de63.chunk.js"
+    "static/js/runtime-main.c21c50e6.js",
+    "static/css/2.ece6fd1a.chunk.css",
+    "static/js/2.807dfae4.chunk.js",
+    "static/css/main.fedf642a.chunk.css",
+    "static/js/main.f9970a6f.chunk.js"
   ]
 }
